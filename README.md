@@ -22,12 +22,20 @@
 
 ### 🧠 Featured Python Projects
 
-| Project | Description |
-|--------|-------------|
-| [📄 Resume Analyzer](https://resume-analyzer-wfenkbcnbgkedsrw2kjuzc.streamlit.app/) | Extracts key info from resumes using NLP and displays structured summaries |
-| [🎥 Video Summarizer](https://video-summarizer-python-repo-uzcnzpghto4cnj82ddsh6q.streamlit.app/) | Converts long videos into short summaries using Python + AI |
-| [📖 Audiobook from PDF](https://audiobookfrompdf-english.streamlit.app/) | Reads PDF files aloud and converts them into MP3 audiobooks |
-| [📚 Python Quiz App](https://quiz-app-app-asd6w95qd7stjejfx9t6ye.streamlit.app/) | Interactive quiz system built with Python OOP principles |
+| Project | Description | Live App |
+|--------|-------------|----------|
+| 📖 Audiobook from PDF | Converts PDF content into speech (MP3) | [Launch](https://audiobookfrompdf.streamlit.app/) |
+| 🧮 Calculator | Simple calculator built with Streamlit | [Launch](https://calculator-app-smeanxnxazmdbljekuhmgf.streamlit.app/) |
+| 📇 Contact Book | Save, update, and manage contact entries | [Launch](https://contact-book-cn6q7jdupvijyfqxkfk2hu.streamlit.app/) |
+| 🧹 Data Sweeper | Clean and preprocess messy datasets | [Launch](https://data-sweeper-3uytlfpqw55zwcvcple6t7.streamlit.app/) |
+| 🔐 Encryption App | Secure data using encryption/decryption | [Launch](https://encryption-and-decription-qujdsw9wyew7waee9bxuge.streamlit.app/) |
+| 🎮 Hangman Game | Interactive word-guessing game | [Launch](https://hangman-game-v2cjfgfrbrmez2o839yjrm.streamlit.app/) |
+| 🌱 Growth Mindset App | Daily challenges to boost your mindset | [Launch](https://growth-mindset-app-prooject-ai2aurzmnijq4sguyf3a2h.streamlit.app/) |
+| 😂 Joke Generator | Urdu jokes using custom FastAPI backend | [Launch](https://joke-generator-ldxlleqewnjw4gjcmr6yek.streamlit.app/) |
+| 📊 Mood Tracker | Log and visualize your daily mood | [Launch](https://mood-tracker-app-ngr4h2ge6za5ph8hdk6lvh.streamlit.app/) |
+| 🎲 Number Guessing Game | Fun game to guess a number in Python | [Launch](https://number-guessing-game-stramlit-bb3gvykfvfxyfqprsyjuy2.streamlit.app/) |
+| ❓ Python Quiz App | Multiple-choice quiz using OOP | [Launch](https://quiz-app-app-asd6w95qd7stjejfx9t6ye.streamlit.app/) |
+| ✅ To-Do List App | Create and manage daily tasks | [Launch](https://todo-list-app-python-btgepid9cyxpwyvaq2zc7u.streamlit.app/) |
 
 ---
 
@@ -80,10 +88,7 @@
 
 ---
 
-### 🐍 Snake Contribution Graph
-
-> ⚠️ If the snake animation doesn’t load, make sure your GitHub has the correct `output` branch with the contribution SVG.
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/adeelmaheen/adeelmaheen/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  🚀 Keep building, keep learning — the journey is just as exciting as the goal!
 </p>
+
