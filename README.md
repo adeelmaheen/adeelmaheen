@@ -15,6 +15,8 @@
 - 🧠 Always exploring new technologies, especially in **AI** and **automation**
 - 🌐 Visit my portfolio: [resume-portfolio-react.vercel.app](https://resume-portfolio-react.vercel.app)
 - 📫 Contact me at **adeelmaheen.dev@gmail.com**
+- 🔗 View all my deployments: [Vercel Projects](https://vercel.com/maheen-s-projects)
+- 🌍 Streamlit Apps: [Streamlit Cloud](https://share.streamlit.io/user/adeelmaheen)
 
 ---
 
@@ -22,19 +24,29 @@
 
 | Project | Description |
 |--------|-------------|
-| [📄 Resume Analyzer](https://github.com/adeelmaheen/resume-analyzer) | Extracts key info from resumes using NLP and displays structured summaries |
-| [🎥 Video Summarizer](https://github.com/adeelmaheen/video-summarization) | Converts long videos into short summaries using Python + AI |
-| [📖 Audiobook from PDF](https://github.com/adeelmaheen/pdf-to-audiobook) | Reads PDF files aloud and converts them into MP3 audiobooks |
-| [📚 Python Quiz App](https://github.com/adeelmaheen/python-quiz-app) | Interactive quiz system built with Python OOP principles |
+| [📄 Resume Analyzer](https://resume-analyzer-wfenkbcnbgkedsrw2kjuzc.streamlit.app/) | Extracts key info from resumes using NLP and displays structured summaries |
+| [🎥 Video Summarizer](https://video-summarizer-python-repo-uzcnzpghto4cnj82ddsh6q.streamlit.app/) | Converts long videos into short summaries using Python + AI |
+| [📖 Audiobook from PDF](https://audiobookfrompdf-english.streamlit.app/) | Reads PDF files aloud and converts them into MP3 audiobooks |
+| [📚 Python Quiz App](https://quiz-app-app-asd6w95qd7stjejfx9t6ye.streamlit.app/) | Interactive quiz system built with Python OOP principles |
 
 ---
 
 ### 🛍️ Web Projects
 
-| Project | Description |
-|--------|-------------|
-| [🧵 Shopr](https://github.com/adeelmaheen/shopr) | Traditional embroidery eCommerce site built with Next.js, Stripe, and Sanity |
-| 🌐 [Personal Portfolio](https://resume-portfolio-react.vercel.app) | A polished React-based portfolio showcasing my skills and projects |
+| Project | Description | Live Demo |
+|--------|-------------|-----------|
+| **🧵 Shopr (eCommerce)** | Embroidery product marketplace built with Next.js, Clerk, Stripe, and Sanity | [Launch](https://ecommerce-shopr-ten.vercel.app/) |
+| **🌐 Personal Portfolio** | Clean and elegant portfolio to showcase my work | [Launch](https://resume-portfolio-react.vercel.app) |
+| **📝 Tailor Smith Blog** | Personal blog for travel and photography stories | [Launch](https://blog-website-seven-bice.vercel.app/) |
+| **🤖 Virtual Assistant – Shifra** | AI-powered virtual assistant built with React | [Launch](https://react-virtual-assistant.vercel.app/) |
+| **🪵 Wood Carving Website** | Aesthetic site for wooden carving art – "Bring Wood to Life" | [Launch](https://wooden-website.vercel.app/) |
+| **👟 Nike Clone Store** | eCommerce site inspired by Nike’s product UI | [Launch](https://vercel.com/maheen-s-projects/nike-webite-maheen) |
+| **🖼️ Background Remover** | Removes image backgrounds using browser tools | [Launch](https://background-remover-rose.vercel.app/) |
+| **🎨 Text to Image Generator** | AI tool to convert text prompts into images | [Launch](https://vercel.com/maheen-s-projects/text-to-image) |
+| **🧠 Virtual Assistant – Jarvis** | Another smart voice/text assistant in React | [Launch](https://my-virtual-assistant.vercel.app/) |
+| **💻 Code Editor** | Online code editor built with React | [Launch](https://code-editor-gamma-gilt.vercel.app/) |
+| **🧪 Python Quiz App (Web)** | Quiz game using Python logic in a web UI | [Launch](https://python-quiz-app.vercel.app/) |
+| **📄 CV Generator** | Free online, editable resume/CV generator | [Launch](https://cv-phi-ruby.vercel.app/) |
 
 ---
 
@@ -62,9 +74,15 @@
   <a href="mailto:adeelmaheen.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/adeelmaheen"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
   <a href="https://resume-portfolio-react.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox&logoColor=white"/></a>
+  <a href="https://vercel.com/maheen-s-projects"><img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/></a>
+  <a href="https://share.streamlit.io/user/adeelmaheen"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/></a>
 </p>
 
 ---
+
+### 🐍 Snake Contribution Graph
+
+> ⚠️ If the snake animation doesn’t load, make sure your GitHub has the correct `output` branch with the contribution SVG.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/adeelmaheen/adeelmaheen/output/github-contribution-grid-snake.svg" alt="snake animation" />
