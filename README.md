@@ -14,7 +14,7 @@
 - 🛠️ Experienced in building end-to-end web apps and intelligent tools
 - 🧠 Always exploring new technologies, especially in **AI** and **automation**
 - 🌐 Visit my portfolio: [resume-portfolio-react.vercel.app](https://resume-portfolio-react.vercel.app)
-- 📫 Contact me at **adeelmaheen.dev@gmail.com**
+- 📫 Contact me at **adeelmaheen602@gmail.com**
 - 🔗 View all my deployments: [Vercel Projects](https://vercel.com/maheen-s-projects)
 - 🌍 Streamlit Apps: [Streamlit Cloud](https://share.streamlit.io/user/adeelmaheen)
 
