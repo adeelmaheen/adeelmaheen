@@ -24,6 +24,8 @@
 
 | Project | Description | Live App |
 |--------|-------------|----------|
+| 👍🏻💅🏻 YouTube Thumbnail Generator  | fully free and easy to customized it and can download it.| [Launch](https://youtube-automation-1.streamlit.app/) |
+| 🎥🐾🎥 YouTube Video Trancriber | fully free and easy to trancribe english video with timestamp. | [Launch](https://transcribe-videokjjypin7bqdr6pdayrcm5r.streamlit.app/)|
 | 📖 Audiobook from PDF | Converts PDF content into speech (MP3) | [Launch](https://audiobookfrompdf.streamlit.app/) |
 | 🧮 Calculator | Simple calculator built with Streamlit | [Launch](https://calculator-app-smeanxnxazmdbljekuhmgf.streamlit.app/) |
 | 📇 Contact Book | Save, update, and manage contact entries | [Launch](https://contact-book-cn6q7jdupvijyfqxkfk2hu.streamlit.app/) |
@@ -43,6 +45,7 @@
 
 | Project | Description | Live Demo |
 |--------|-------------|-----------|
+| **🎮 GTA VI (Website)** | GTA VI game website fully animated with gsap , remixicon, tailwind | [Launch](https://lnkd.in/d4X6qjcA) |
 | **🧵 Shopr (eCommerce)** | Embroidery product marketplace built with Next.js, Clerk, Stripe, and Sanity | [Launch](https://ecommerce-shopr-ten.vercel.app/) |
 | **🌐 Personal Portfolio** | Clean and elegant portfolio to showcase my work | [Launch](https://resume-portfolio-react.vercel.app) |
 | **📝 Tailor Smith Blog** | Personal blog for travel and photography stories | [Launch](https://blog-website-seven-bice.vercel.app/) |
