@@ -8,8 +8,9 @@
 ---
 
 ### 🚀 About Me
-
-- 🧵 Currently building **Shopr**, a machine embroidery-based eCommerce platform using **Next.js 15**, **Sanity CMS**, **Stripe**, and **Clerk**
+- 👩🏻‍💻 Building Agents through openai agents sdk, and google adk.
+- 🤖 Builing a complete saas app for Rag system through NextJS, Clerk, OpenAI , Stripe
+- 🧵 Build **Shopr**, a machine embroidery-based eCommerce platform using **Next.js 15**, **Sanity CMS**, **Stripe**, and **Clerk**, add agent
 - 💡 Passionate about automating real-world problems with Python
 - 🛠️ Experienced in building end-to-end web apps and intelligent tools
 - 🧠 Always exploring new technologies, especially in **AI** and **automation**
@@ -24,7 +25,7 @@
 
 | Project | Description | Live App |
 |--------|-------------|----------|
-| 🤖🔊💬 Multi Tool Agent| My Gemini agent can do websearch, calculate, summarize, voice input output, track History record, also can download,and todos | [Launch]( https://lnkd.in/eNZP8yaC) |
+| 🤖🔊💬 Multi Tool Agent| My Gemini agent can do websearch, calculate, summarize, voice input output, track History record, also can download,and todos | [Launch](https://geminiagent-cnhohd5zvboywkd4zuqjsu.streamlit.app/) |
 | 👍🏻💅🏻 YouTube Thumbnail Generator  | fully free and easy to customized it and can download it.| [Launch](https://youtube-automation-1.streamlit.app/) |
 | 🎥🐾🎥 YouTube Video Trancriber | fully free and easy to trancribe english video with timestamp. | [Launch](https://transcribe-videokjjypin7bqdr6pdayrcm5r.streamlit.app/)|
 | 📖 Audiobook from PDF | Converts PDF content into speech (MP3) | [Launch](https://audiobookfrompdf.streamlit.app/) |
