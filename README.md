@@ -24,6 +24,7 @@
 
 | Project | Description | Live App |
 |--------|-------------|----------|
+| 🤖🔊💬 Multi Tool Agent| My Gemini agent can do websearch, calculate, summarize, voice input output, track History record, also can download,and todos | [Launch]( https://lnkd.in/eNZP8yaC) |
 | 👍🏻💅🏻 YouTube Thumbnail Generator  | fully free and easy to customized it and can download it.| [Launch](https://youtube-automation-1.streamlit.app/) |
 | 🎥🐾🎥 YouTube Video Trancriber | fully free and easy to trancribe english video with timestamp. | [Launch](https://transcribe-videokjjypin7bqdr6pdayrcm5r.streamlit.app/)|
 | 📖 Audiobook from PDF | Converts PDF content into speech (MP3) | [Launch](https://audiobookfrompdf.streamlit.app/) |
