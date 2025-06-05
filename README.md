@@ -25,9 +25,12 @@
 
 | Project | Description | Live App |
 |--------|-------------|----------|
+| 🐦 🐝 🐜 Drone System simulation | visually see agents movement through Boid,Ant,bee models | [Launch](https://drone-agent.streamlit.app/) |
+| 🔐  | Simulation Control | [Launch](https://swarm-uv-simulation.streamlit.app/) |
 | 🤖🔊💬 Multi Tool Agent| My Gemini agent can do websearch, calculate, summarize, voice input output, track History record, also can download,and todos | [Launch](https://geminiagent-cnhohd5zvboywkd4zuqjsu.streamlit.app/) |
 | 👍🏻💅🏻 YouTube Thumbnail Generator  | fully free and easy to customized it and can download it.| [Launch](https://youtube-automation-1.streamlit.app/) |
 | 🎥🐾🎥 YouTube Video Trancriber | fully free and easy to trancribe english video with timestamp. | [Launch](https://transcribe-videokjjypin7bqdr6pdayrcm5r.streamlit.app/)|
+| 📹 Video Summarization App |Summarize video in text| [Launch](https://video-summarizer-python-repo-uzcnzpghto4cnj82ddsh6q.streamlit.app/) |
 | 📖 Audiobook from PDF | Converts PDF content into speech (MP3) | [Launch](https://audiobookfrompdf.streamlit.app/) |
 | 🧮 Calculator | Simple calculator built with Streamlit | [Launch](https://calculator-app-smeanxnxazmdbljekuhmgf.streamlit.app/) |
 | 📇 Contact Book | Save, update, and manage contact entries | [Launch](https://contact-book-cn6q7jdupvijyfqxkfk2hu.streamlit.app/) |
