@@ -25,6 +25,8 @@
 
 | Project | Description | Live App |
 |--------|-------------|----------|
+| 👽👾 Agent Arena  | 🔍 Web search (DuckDuckGo) 🎨 Image generation (Unsplash + Placeholders) 💻 Code execution (Free sandbox) 🧠 AI analysis (Gemini Pro + OpenRouter).| [Launch](https://agent-arena-six.vercel.app/) |
+| 🧾 💳 ⏳ Prduct Review Sentiment Scraper | search any product to scrape sentiment analysis | [Launch](https://product-scraper-five.vercel.app/) |
 | 🐦 🐝 🐜 Drone System simulation | visually see agents movement through Boid,Ant,bee models | [Launch](https://drone-agent.streamlit.app/) |
 | 🦢🦢 |Swarm Simulation Control | [Launch](https://swarm-uv-simulation.streamlit.app/) |
 | 🤖🔊💬 Multi Tool Agent| My Gemini agent can do websearch, calculate, summarize, voice input output, track History record, also can download,and todos | [Launch](https://geminiagent-cnhohd5zvboywkd4zuqjsu.streamlit.app/) |
@@ -50,9 +52,20 @@
 
 | Project | Description | Live Demo |
 |--------|-------------|-----------|
+| **🎮 GTA VI (Full Landing Page)** | GTA VI game website fully animated with gsap , remixicon, tailwind | [Launch](https://gta-vi-landing-page-beta.vercel.app/) |
+| **🛌🏻 Furniture Store** | eCommerce site inspired by Furniture's product UI | [Launch](https://furni-turewebsite.netlify.app/) |
+| **🍸🍹 Cocktail (Website)** | A Cocktail website fully animated using gsap and remixicon, tailwind css | [Launch](https://gsap-cocktails-three.vercel.app/) |
 | **🎮 GTA VI (Website)** | GTA VI game website fully animated with gsap , remixicon, tailwind | [Launch](https://lnkd.in/d4X6qjcA) |
 | **🧵 Shopr (eCommerce)** | Embroidery product marketplace built with Next.js, Clerk, Stripe, and Sanity | [Launch](https://ecommerce-shopr-ten.vercel.app/) |
 | **🌐 Personal Portfolio** | Clean and elegant portfolio to showcase my work | [Launch](https://resume-portfolio-react.vercel.app) |
+| **🎐📹 Modern Technology Drone (website)** | Another smart full landing animated website | [Launch](https://drone-web-site.netlify.app/) |
+| **⌚⌚ Watch (Website)** | specially design for watch Lover's. | [Launch](https://comforting-sherbet-f21818.netlify.app/) |
+| **🏍🏍 JAWA Perak (Website)** |Design for Bike Lover's | [Launch](https://jawa-bike-website.netlify.app/) |
+| **🐇🐶🐹 Pet Animals (Website)** | Design for Pet Lover's | [Launch](https://pet-place-website.netlify.app/) |
+| **🏍🛵 STEED (website)** | Experience the unstoppable power of cutting-edge design and high-performance engineering. Ride with confidence and unleash the thrill of adventure like never before! | [Launch](https://steed-website.netlify.app/) |
+| **🍰🎂🍰 Pastry Website** | Good Pastry & Coffee For a Good Day | [Launch](https://pastery-website.netlify.app/) |
+| **✈🚉🚂🚅 Travel (website)** | A HIKING GUIDE, Be Prepared For The Mountains And Beyond! | [Launch](https://travel-design1.netlify.app/) |
+| **⌚ Porsche (website)** | Presche Lover's. | [Launch](https://porche-design.netlify.app/) |
 | **📝 Tailor Smith Blog** | Personal blog for travel and photography stories | [Launch](https://blog-website-seven-bice.vercel.app/) |
 | **🤖 Virtual Assistant – Shifra** | AI-powered virtual assistant built with React | [Launch](https://react-virtual-assistant.vercel.app/) |
 | **🪵 Wood Carving Website** | Aesthetic site for wooden carving art – "Bring Wood to Life" | [Launch](https://wooden-website.vercel.app/) |
