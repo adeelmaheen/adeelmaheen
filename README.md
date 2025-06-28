@@ -28,6 +28,11 @@
 | 👽👾 Agent Arena  | 🔍 Web search (DuckDuckGo) 🎨 Image generation (Unsplash + Placeholders) 💻 Code execution (Free sandbox) 🧠 AI analysis (Gemini Pro + OpenRouter).| [Launch](https://agent-arena-six.vercel.app/) |
 | 🧾 💳 ⏳ Prduct Review Sentiment Scraper | search any product to scrape sentiment analysis | [Launch](https://product-scraper-five.vercel.app/) |
 | 🐦 🐝 🐜 Drone System simulation | visually see agents movement through Boid,Ant,bee models | [Launch](https://drone-agent.streamlit.app/) |
+| 📨📩☑✔ |Email Checker| [Launch](https://gmail-checker.streamlit.app/) |
+| 🤓 📊 🤖 |Gemini Chatbot| [Launch](https://geminiagent-cnhohd5zvboywkd4zuqjsu.streamlit.app/) |
+| 🗣🔊🤖 |RoboSpeaker voicebot| [Launch](https://robo-speaker.streamlit.app/) |
+| 🌠✨💫 |Story Script Generator| [Launch](https://script-story-generator.streamlit.app/) |
+| ✏📝 |Pencil Skitch Generator | [Launch](https://pencil-skitch.streamlit.app/) |
 | 🦢🦢 |Swarm Simulation Control | [Launch](https://swarm-uv-simulation.streamlit.app/) |
 | 🤖🔊💬 Multi Tool Agent| My Gemini agent can do websearch, calculate, summarize, voice input output, track History record, also can download,and todos | [Launch](https://geminiagent-cnhohd5zvboywkd4zuqjsu.streamlit.app/) |
 | 👍🏻💅🏻 YouTube Thumbnail Generator  | fully free and easy to customized it and can download it.| [Launch](https://youtube-automation-1.streamlit.app/) |
