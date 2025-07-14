@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maheen Arif</h1>
-<h3 align="center">A Full-Stack Developer & Python Enthusiast from Pakistan 🇵🇰</h3>
+<h3 align="center">A Full-Stack Developer with AI solutions & Python Enthusiast from Pakistan 🇵🇰</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=440&lines=Full-Stack+Web+Developer;Python+Automation+Wizard;Open+Source+Contributor;Lifelong+Learner+%26+Builder" alt="Typing SVG" />
@@ -10,6 +10,7 @@
 ### 🚀 About Me
 - 👩🏻‍💻 Building Agents through openai agents sdk, and google adk.
 - 🤖 Builing a complete saas app for Rag system through NextJS, Clerk, OpenAI , Stripe
+- 💻 Build a **Saas IDE** **DevEase AI** no code app using **NextJS React Convex Axios UUId4 Google Generative AI Stripe Oauth sandpack Lucide-react tailwind-css shadcn/ui**
 - 🧵 Build **Shopr**, a machine embroidery-based eCommerce platform using **Next.js 15**, **Sanity CMS**, **Stripe**, and **Clerk**, add agent
 - 💡 Passionate about automating real-world problems with Python
 - 🛠️ Experienced in building end-to-end web apps and intelligent tools
@@ -57,6 +58,7 @@
 
 | Project | Description | Live Demo |
 |--------|-------------|-----------|
+| **💻 DevEase AI IDE** |No-code AI app just think build and vibe like a pro | [Launch](https://dev-ease-zeta.vercel.app/) |
 | **🎮 GTA VI (Full Landing Page)** | GTA VI game website fully animated with gsap , remixicon, tailwind | [Launch](https://gta-vi-landing-page-beta.vercel.app/) |
 | **🛌🏻 Furniture Store** | eCommerce site inspired by Furniture's product UI | [Launch](https://furni-turewebsite.netlify.app/) |
 | **🍸🍹 Cocktail (Website)** | A Cocktail website fully animated using gsap and remixicon, tailwind css | [Launch](https://gsap-cocktails-three.vercel.app/) |
